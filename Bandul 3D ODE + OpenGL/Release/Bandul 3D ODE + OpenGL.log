@@ -1,0 +1,15 @@
+﻿Build started 9/6/2019 10:28:18 PM.
+     1>Project "C:\My Code\Bandul 3D ODE + OpenGL\Bandul 3D ODE + OpenGL\Bandul 3D ODE + OpenGL.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Library\freeglut\include /IC:\Library\ODE\include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /wd4244 /wd4305 /wd4996 /analyze- /errorReport:prompt src\Main.cpp
+         Main.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\My Code\Bandul 3D ODE + OpenGL\Release\Bandul 3D ODE + OpenGL.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\Library\freeglut\lib /LIBPATH:C:\Library\ODE\lib opengl32.lib glu32.lib freeglut.lib ode_single.lib drawstuff.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\My Code\Bandul 3D ODE + OpenGL\Release\Bandul 3D ODE + OpenGL.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\My Code\Bandul 3D ODE + OpenGL\Release\Bandul 3D ODE + OpenGL.lib" /MACHINE:X86 /SAFESEH Release\Main.obj
+         Generating code
+         Finished generating code
+         Bandul 3D ODE + OpenGL.vcxproj -> C:\My Code\Bandul 3D ODE + OpenGL\Release\Bandul 3D ODE + OpenGL.exe
+     1>Done Building Project "C:\My Code\Bandul 3D ODE + OpenGL\Bandul 3D ODE + OpenGL\Bandul 3D ODE + OpenGL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.03
